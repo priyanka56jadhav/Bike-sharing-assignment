@@ -17,4 +17,4 @@ It is required to model the demand for shared bikes with the available independe
 
 ## Conclusion:
 
-On analysing data, it was observed that, the linear regression model was able to predict bike demand precisely with an R2 Score of more than 80%
+On analysing data, it was observed that, the linear regression model was able to predict bike demand precisely with an R2 Score near to 80%
